@@ -107,7 +107,6 @@ int main() {
 
 	//histogram(image, "Histogram of Input Image");
 	//histogram(max_filtered, "Histogram of Max Filter");
-	//histogram(min_filtered, "Histogram of Mix Filter");
 	
 	waitKey(0);
 	return 0;
